@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devpramanik2024&label=Profile%20views&color=0e75b6&style=flat" alt="devpramanik2024" /> </p>
 
-- 🌱 I’m currently learning **RPA Automation Devloper in Ui path | DaVinci Resolve**
+- 🌱 I’m currently learning **RPA Automation Devloper in Ui path | Video Editing in DaVinci Resolve**
 
 - 📫 How to reach me **devsharma34504@gmail.com**
 
